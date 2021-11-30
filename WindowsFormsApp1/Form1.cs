@@ -12,8 +12,8 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        Form2 f2;
-        Form3 f3;
+        LentaF f2;
+        Form2 f3;
 
         public Form1()
         {
@@ -21,12 +21,12 @@ namespace WindowsFormsApp1
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            f2 = new Form2();
+            f2 = new LentaF();
             f2.Show();
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            f3 = new Form3();
+            f3 = new Form2();
             f3.Show();
         }
     }

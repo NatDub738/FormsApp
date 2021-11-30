@@ -48,7 +48,7 @@ namespace WindowsFormsApp1
             // button2
             // 
             this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
-            this.button2.Location = new System.Drawing.Point(305, 100);
+            this.button2.Location = new System.Drawing.Point(283, 100);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(229, 78);
             this.button2.TabIndex = 1;
@@ -61,13 +61,13 @@ namespace WindowsFormsApp1
             this.label1.Font = new System.Drawing.Font("Segoe Print", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(154, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(278, 57);
+            this.label1.Size = new System.Drawing.Size(227, 47);
             this.label1.TabIndex = 2;
             this.label1.Text = "За покупками!";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(564, 259);
             this.Controls.Add(this.label1);
