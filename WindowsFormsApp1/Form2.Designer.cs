@@ -107,7 +107,7 @@ namespace WindowsFormsApp1
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 71);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(123, 13);
+            this.label4.Size = new System.Drawing.Size(151, 17);
             this.label4.TabIndex = 7;
             this.label4.Text = "Исходное количество";
             // 
@@ -116,7 +116,7 @@ namespace WindowsFormsApp1
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(12, 43);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(58, 13);
+            this.label3.Size = new System.Drawing.Size(72, 17);
             this.label3.TabIndex = 6;
             this.label3.Text = "Название";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -140,7 +140,7 @@ namespace WindowsFormsApp1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(323, 30);
+            this.button1.Location = new System.Drawing.Point(307, 26);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(103, 50);
@@ -154,7 +154,7 @@ namespace WindowsFormsApp1
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(81, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(214, 13);
+            this.label1.Size = new System.Drawing.Size(259, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Введите информацию о новом товаре";
             this.label1.Click += new System.EventHandler(this.label1_Click);
